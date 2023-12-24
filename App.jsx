@@ -3,7 +3,7 @@ import Card from "./components/Card"
 
 const App = () => {
     return (
-        <div>
+        <div className="songs">
             <h1>1942 Flows</h1>
             <Card 
                 song_image="album_cover_2.png"
