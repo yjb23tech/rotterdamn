@@ -4,7 +4,6 @@ import Card from "./components/Card"
 const App = () => {
     return (
         <div className="songs">
-            <h1>1942 Flows</h1>
             <Card 
                 song_image="album_cover_2.png"
                 song_title="POWER"
@@ -26,7 +25,7 @@ const App = () => {
                 genre_name="Sophisticated Ignorance"
             />
             <Card 
-                song_image="album_icon_7.png"
+                song_image="album_cover_7.png"
                 song_title="POWER REMIX"
                 album_icon="album_icon.png"
                 album_name="My Beautiful Dark Twisted Fantasy"
