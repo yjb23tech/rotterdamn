@@ -7,7 +7,7 @@ const App = () => {
             <h1>1942 Flows</h1>
             <Card 
                 song_image="album_cover_2.png"
-                song_title="All I Need"
+                song_title="POWER"
                 album_icon="album_icon.png"
                 album_name="My Beautiful Dark Twisted Fantasy"
                 artist_icon="artist_icon.png"
