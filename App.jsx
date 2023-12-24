@@ -11,7 +11,7 @@ const App = () => {
                 album_icon="album_icon.png"
                 album_name="My Beautiful Dark Twisted Fantasy"
                 artist_icon="artist_icon.png"
-                arist_name="Kanye West"
+                artist_name="Kanye West"
                 genre_icon="genre_icon.png"
                 genre_name="Sophisticated Ignorance"
             />
